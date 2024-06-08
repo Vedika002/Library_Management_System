@@ -1,6 +1,6 @@
 # Library_Management_System
 
-This project is a simple Library Management System implemented in Python. It allows for the management of books and users, tracking of book availability, and simple logging of operations.
+This project is a simple Library Management System implemented in Python. It allows for the management of books and users, tracking of book availability, and simple logging of operations. It has a good CLI interface and interactivity.
 
 ## Features
 

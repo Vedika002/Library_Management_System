@@ -43,7 +43,7 @@ The project consists of the following files:
 - `CSV_BOOK_LOCATION.csv`: The CSV file where book data is stored.
 
 ## Installation
-1. CLone the repository :
+1. Clone the repository :
    git clone https://github.com/username/Library_Management_System.git
 2. Navigate to the project directory:
    cd Library_Management_System
